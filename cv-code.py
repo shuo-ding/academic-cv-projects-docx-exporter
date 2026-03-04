@@ -3,7 +3,7 @@ from datetime import datetime
 from dateutil.parser import parse
 
 # -----------------------------------------------------------------------------
-# Purpose
+# Author Dr Shuo Ding, La Trobe Uni
 # -----------------------------------------------------------------------------
 # Read a JSON file ("projectgrok.json") that contains a list of project records,
 # then:
@@ -113,4 +113,5 @@ with open("IoT_Projects.txt", "w", encoding="utf-8") as f:
 # -----------------------------------------------------------------------------
 # Console output (echo)
 # -----------------------------------------------------------------------------
+
 print("✅ Done: projects filtered + sorted. Output files created: AI_Projects.txt and IoT_Projects.txt")
