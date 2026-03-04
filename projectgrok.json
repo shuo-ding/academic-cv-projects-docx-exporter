@@ -1,0 +1,41 @@
+[
+  {
+    "Project Title": "Project: AI powered Applications",
+    "Project ID": "132",
+    "Start Date": "1 September 2025",
+    "End Date": "31 December 2026",
+    "My Role": "Lead Chief Investigator",
+    "My Duties": "",
+    "Classification": "AI",
+    "Technology": "AI",
+    "Description": " This project will provide evidence-based insights to help set priorities and shape policies on AI",
+    "Awarded Amount": "AU$62,396 (OAC)",
+    "Funder/Sponsor": "Opensource AI",
+    "Institutes/Parties Involved": "Commonwealth, Widi University",
+    "Publications": [],
+    "Media": "",
+    "Project Link": ""
+  },
+  {
+    "Project Title": "Project: Smart Campus IoT Microgrid Pilot",
+    "Project ID": "IOT-CP-042",
+    "Start Date": "15 March 2024",
+    "End Date": "30 November 2025",
+    "My Role": "IoT Solutions Lead / Edge-to-Cloud Architect",
+    "My Duties": "Led end-to-end IoT system design and delivery. Defined device onboarding, secure telemetry, edge analytics, and cloud dashboards. Built data pipelines (MQTT \u2192 stream processing \u2192 time-series storage), implemented anomaly detection for energy and asset usage, and coordinated field trials with facilities staff. Produced technical documentation, risk register, and deployment runbooks; reported outcomes and recommendations to stakeholders.",
+    "Classification": "IoT",
+    "Technology": "IoT Sensors, MQTT, LoRaWAN, Edge AI, Digital Twin, Time-Series DB, Cloud Dashboards",
+    "Description": "This pilot deployed a campus-scale IoT sensing network to monitor energy consumption, environmental conditions, and critical asset status across multiple buildings. The solution integrated low-power sensors with edge gateways for resilient connectivity, performed real-time anomaly detection to identify abnormal usage patterns, and presented actionable insights via a role-based dashboard for operations teams. The project included hardware-in-the-loop testing, staged rollouts, and a controlled field trial to evaluate reliability, data quality, cybersecurity posture, and operational impact, culminating in a scalable reference architecture and deployment checklist for broader adoption.",
+    "Awarded Amount": "AU$420,000 (pilot funding)",
+    "Funder/Sponsor": "Metro Innovation Fund (fictional), Campus Facilities Partnership (fictional)",
+    "Institutes/Parties Involved": "Urban Systems Lab (fictional), MetroGrid Solutions Pty Ltd (fictional), GreenEdge IoT (fictional), University Facilities Unit (fictional)",
+    "Publications": [
+      {
+        "Title": "S. Wu and J. Han, \u201cEdge-to-Cloud Reliability Patterns for Campus IoT Microgrids: Lessons from a Pilot Deployment,\u201d in Proc. 2025 Intl. Workshop on Practical IoT Systems (fictional venue), 2025.",
+        "Link": ""
+      }
+    ],
+    "Media": "Internal demo video and poster (non-public).",
+    "Project Link": ""
+  }
+]
